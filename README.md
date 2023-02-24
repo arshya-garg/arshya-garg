@@ -38,4 +38,8 @@ I am Arshya Garg, a sophomore at Thapar Institute Of Engineering And Technology,
 <a ><img src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/photoshop.svg" alt="photoshop" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshya-garg&show_icons=true&locale=en&layout=compact" alt="arshya-garg" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshya-garg&show_icons=true&locale=en" alt="arshya-garg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshya-garg&" alt="arshya-garg" /></p>
